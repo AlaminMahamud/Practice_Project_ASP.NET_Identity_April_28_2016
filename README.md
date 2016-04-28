@@ -1,12 +1,13 @@
 # Project Info
 
-Project Name        : ASP.NET Identity
-Project Type        : Practice
-Project Start Date  : April 28 2016
-Project Description : 
+- Project Name        : ASP.NET Identity
+- Project Type        : Practice
+- Project Start Date  : April 28 2016
+- Project Description : 
 
 # Project Structure
 
+````
 |-build
 |-docs
 |-src
@@ -16,3 +17,4 @@ Project Description :
 LICENSE.md
 README.md
 LOG.md
+````

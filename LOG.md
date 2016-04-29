@@ -3,3 +3,4 @@
 3. Introduction to asp.net Identity - 3.00 am - not finished [later]
 4. Create an ASP.NET MVC app with auth and SQL DB and deploy to Azure App Service - 3.00 am
 5. Building a simple ToDo application with ASP.NET Identity and associating Users with ToDoes - finsihed -3.30am
+6. Asp.NET Identity Recommended Resources - 5.00pm

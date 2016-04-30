@@ -14,8 +14,9 @@
 
 # April 30 2016
 
-- One stop guide to configuring OAuth providers for ASP.NET - 11.00am
-- Walkthrough: ASP.NET MVC Identity with Microsoft Account Authentication by Benjamin Day
+- One stop guide to configuring OAuth providers for ASP.NET - 11.00am - finished
+- Walkthrough: ASP.NET MVC Identity with Microsoft Account Authentication by Benjamin Day - 11.00am - finished
+- ASP.NET MVC and Identity 2.0: Understanding the Basics - 11.30am 
 - ASP.NET Identity 2.0 Extending Identity Models and Using Integer Keys Instead of Strings 
 - AngularJS Token Authentication using ASP.NET Web API 2, Owin, and Identity
 - Thinktecture.IdentityManager as a replacement for the WSAT
